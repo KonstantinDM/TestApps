@@ -2,4 +2,12 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/TCPServer/.vs/TCPServer/v16/Browse.VC.opendb
+*.tlog
+*.log
+*.obj
+*.pdb
+*.idb
+*.exe
+*.ilk
+*.txt
+/TCPServer/.vs/TCPServer/v16
